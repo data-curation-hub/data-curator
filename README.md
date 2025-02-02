@@ -1,1 +1,1 @@
-# asset-evaluator
+# asset-curator
